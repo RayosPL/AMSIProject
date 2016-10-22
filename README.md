@@ -1,0 +1,2 @@
+# AMSIProject
+Projekt na AMSI
